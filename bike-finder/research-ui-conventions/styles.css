@@ -1,0 +1,53 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    max-width: 650px;
+}
+
+.store {
+    margin-bottom: 3rem;
+}
+
+h1 {
+    margin-bottom: .5rem;
+}
+
+h2 {
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+h4 {
+    margin-top: .5rem;
+}
+
+a {
+    font-size: 1.25rem;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 0;
+}
+
+.question {
+    font-style: italic;
+    margin-top: 2rem;
+}
+
+ul.answer {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: .75rem;
+}
+
+p.answer {
+    margin-left: 2.5rem;
+}
