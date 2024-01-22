@@ -6,3 +6,34 @@ body {
     width: 60%;
     max-width: 650px;
 }
+
+.store {
+    margin-bottom: 3rem;
+}
+
+h1 {
+    margin-bottom: .5rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    margin-top: .5rem;
+}
+
+.website {
+    font-size: 1.25rem;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: .75rem;
+    margin-left: -2.5rem;
+}
