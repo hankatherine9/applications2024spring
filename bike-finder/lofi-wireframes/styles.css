@@ -1,0 +1,10 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+img {
+    display: block;
+    max-width: 800px;
+}
